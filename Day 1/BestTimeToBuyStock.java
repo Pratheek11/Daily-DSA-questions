@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
 public class BestTimeToBuyStock {
     public static void main(String[] args) {
         int[] prices = { 1, 5, 8, 2, 12 };
