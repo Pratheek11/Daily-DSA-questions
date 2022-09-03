@@ -5,3 +5,5 @@
 - https://leetcode.com/problems/fibonacci-number
 - https://leetcode.com/problems/squares-of-a-sorted-array
 - https://leetcode.com/problems/pascals-triangle
+- https://practice.geeksforgeeks.org/problems/quick-left-rotation3806/1
+- https://practice.geeksforgeeks.org/problems/who-will-win-1587115621/1
