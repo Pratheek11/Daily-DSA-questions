@@ -1,0 +1,5 @@
+- https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1
+- https://practice.geeksforgeeks.org/problems/missing-number4257/1
+- https://leetcode.com/problems/max-consecutive-ones/
+- https://practice.geeksforgeeks.org/problems/maximize-number-of-1s0905/1
+- https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1
