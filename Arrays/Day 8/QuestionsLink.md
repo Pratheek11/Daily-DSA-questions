@@ -1,3 +1,4 @@
 - https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 - https://leetcode.com/problems/subsets/
 - https://leetcode.com/problems/k-diff-pairs-in-an-array
+- https://leetcode.com/problems/jump-game/
