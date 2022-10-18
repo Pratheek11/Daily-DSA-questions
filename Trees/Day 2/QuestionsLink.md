@@ -1,4 +1,5 @@
 - https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 - https://leetcode.com/problems/balanced-binary-tree/description/
 - https://leetcode.com/problems/diameter-of-binary-tree/description/
--
+- https://leetcode.com/problems/binary-tree-maximum-path-sum/description/
+- https://leetcode.com/problems/same-tree/description/
